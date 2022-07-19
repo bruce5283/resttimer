@@ -20,7 +20,7 @@ window.function = function (time, seq) {
    <!-- Display the countdown timer in an element -->
 <div class = "container">
 <p id="pre"></p>
-<button id="btn" onclick="playBuffer()">Start Timer</button>
+<button id="btn" onclick="playBuffer()">Start Rest Time</button>
 </div>
 <audio controls id = "audio" src = "https://dobrian.github.io/cmp/topics/sample-recording-and-playback-with-web-audio-api/freejazz.wav"/>
 <style>
