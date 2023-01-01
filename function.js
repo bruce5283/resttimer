@@ -22,7 +22,7 @@ window.function = function (time, seq) {
 <p id="pre"></p>
 <button id="btn" onclick="playBuffer()">Start Rest Time</button>
 </div>
-<audio controls id = "audio" src = "https://dobrian.github.io/cmp/topics/sample-recording-and-playback-with-web-audio-api/freejazz.wav"/>
+<audio controls id = "audio" src = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/yx58r6aGlO9tUxUcF6qZ/pub/MvuwMh6IlIkSr65NFid7.mp3"/>
 <style>
 
 .container {
