@@ -22,7 +22,7 @@ window.function = function (time, seq) {
 <p id="pre"></p>
 <button id="btn" onclick="playBuffer()">Start Rest Time</button>
 </div>
-<audio controls id = "audio" src = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/yx58r6aGlO9tUxUcF6qZ/pub/0VXsVzQPW3Q0xvfMuNcz.wav"/>
+<audio controls id = "audio" src = "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/yx58r6aGlO9tUxUcF6qZ/pub/5NOkMOzp8x6Fgh6qsuTP.wav"/>
 <style>
 
 .container {
